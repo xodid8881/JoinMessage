@@ -1,0 +1,10 @@
+name: JoinMessage
+version: '${version}'
+main: org.hwabeag.joinmessage.JoinMessage
+api-version: '1.20'
+
+commands:
+  스폰테스트:
+    description: 스폰테스트 명령어 입니다.
+    usage: /스폰테스트
+    aliases: [ㅅㅍㅌㅅㅌ]
